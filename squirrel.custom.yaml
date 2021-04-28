@@ -36,8 +36,6 @@ patch:
       ascii_mode: true
     io.nteract.nteract:
       ascii_mode: true
-    com.sequelpro.SequelPro:
-      ascii_mode: true
     io.termix.client:
       ascii_mode: true
     com.agilebits.onepassword7:
